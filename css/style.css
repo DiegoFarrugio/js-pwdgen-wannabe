@@ -1,0 +1,11 @@
+#mio_id{
+    width: 25%;
+    margin: auto;
+    background-color: lightcoral;
+    display: block;
+    padding: 4px;
+}
+
+div{
+    border: 1px solid grey
+}
